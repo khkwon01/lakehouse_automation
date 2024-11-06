@@ -7,3 +7,5 @@ lakehouse_automation
 
 
 ### 1. install s3fs and oci setup based on VM
+
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/5429794b-bcd6-4cf5-9988-4af305225e6f">
