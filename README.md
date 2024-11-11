@@ -15,9 +15,11 @@ lakehouse_automation
   <img width="1276" alt="image" src="https://github.com/user-attachments/assets/5429794b-bcd6-4cf5-9988-4af305225e6f">
 
 ### 2. Temporary data generation and apply incremental files to lakehouse
-- #### 1) Temporary data generation
+  #### 1) Temporary data generation
   - execute the below python program
     ```
     python datagen.py
     ```
 
+  #### 2) Apply incremental files to lakehouse
+  
