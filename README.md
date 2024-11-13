@@ -35,3 +35,7 @@ lakehouse_automation
     ```
     python check_lakehouse.py
     ```
+
+### 3. Result the screen
+![image](https://github.com/user-attachments/assets/46fdbf1c-cfea-4908-ae4a-f8b37d6813f6)
+
