@@ -17,9 +17,21 @@ lakehouse_automation
 ### 2. Temporary data generation and apply incremental files to lakehouse
   #### 1) Temporary data generation
   - execute the below python program
+    - python version : 3.9
+    - package
+      - schedule==1.2.2
+      - pytz==2024.2
     ```
     python datagen.py
     ```
 
   #### 2) Apply incremental files to lakehouse
-  
+  - execute the below python program
+    - python version : 3.9
+    - package
+      - mysql-connector-python==9.1.0
+      - pandas==2.2.3
+      - pytz==2024.2
+    ```
+    python check_lakehouse.py
+    ```
